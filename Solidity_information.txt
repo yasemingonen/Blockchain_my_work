@@ -1,0 +1,11 @@
+VARIABLES AND TYPES
+
+Visibility:
+  external, public, internal, prive
+  
+Common "Primitive" Types:
+  bool: true or false
+  uint: integer and unsigned integer (positive only) of various sizes: unt8, uint256
+  address: 20 byte Ethereum address (unique-secure)
+  String: "foo" or "bar"
+  When would i want a uint of size 8? (quantity of coins, less memory, etc)
